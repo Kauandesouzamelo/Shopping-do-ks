@@ -1,22 +1,22 @@
-🛒 Big Shainn
-Este é um projeto de um sistema de carrinho de compras interativo, desenvolvido para colocar em prática conceitos fundamentais de desenvolvimento web, como manipulação do DOM, lógica de programação com JavaScript e estilização com CSS.
+# 🛒 Big shainn
 
-🚀 Funcionalidades
-Seleção de Produtos: Escolha entre diferentes itens disponíveis (Fone de ouvido, Celular, Oculus VR).
+Um sistema de carrinho de compras dinâmico desenvolvido para praticar manipulação de DOM e lógica de programação com JavaScript puro.
 
-Gestão de Quantidade: Defina a quantidade de cada item antes de adicioná-lo ao carrinho.
+O projeto permite selecionar produtos, definir quantidades e ver o total da compra sendo calculado em tempo real, com uma interface limpa e funcional.
 
-Cálculo em Tempo Real: O sistema calcula automaticamente o valor total da compra à medida que novos itens são inseridos.
+## 🚀 Funcionalidades
 
-Listagem Dinâmica: Visualização clara dos itens adicionados no carrinho.
+- **Seleção de Produtos:** Escolha entre Fone de ouvido, Celular e Oculus VR.
+- **Cálculo Automático:** O sistema soma os valores unitários multiplicados pela quantidade de forma instantânea.
+- **Interface Dinâmica:** Adição de itens na lista visual sem recarregar a página.
+- **Reset de Carrinho:** Botão para limpar todos os itens e zerar o valor total.
 
-Limpeza de Dados: Opção para reiniciar o carrinho e zerar o total acumulado.
+## 🛠️ Tecnologias
 
-🛠️ Tecnologias Utilizadas
-HTML5: Estruturação semântica da página.
+- **HTML5:** Estrutura semântica.
+- **CSS3:** Estilização e layout.
+- **JavaScript (Vanilla):** Lógica de negócio e manipulação do DOM.
+- **Vercel:** Hospedagem e deploy automático.
 
-CSS3: Estilização moderna e layout responsivo.
+**Desenvolvido por Kauan de Souza Melo. 🚀**
 
-JavaScript (ES6+): Lógica para adição de produtos, cálculos matemáticos e manipulação dinâmica dos elementos da página.
-
-Desenvolvido por Kauan de Souza Melo. 🚀
